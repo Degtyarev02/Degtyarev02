@@ -1,6 +1,6 @@
 ## Привет соучастники <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center">
+<p>
   <img align="center"  height = 165 src="https://github-readme-stats.vercel.app/api?username=Degtyarev02&show_icons=true&theme=github_dark&hide_border=true" />
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Degtyarev02&layout=compact&theme=github_dark&hide_border=true" />
 </p>
@@ -35,8 +35,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## 
-<p align='center'>
+<p>
 <a href="https://instagram.com/degtyarev.02"><img height="40" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="</p>https://t.me/degtyarev02"><img height="40" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="</p>mailto:vladimirdegty@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
+</p>
