@@ -18,6 +18,7 @@
 - 	✉️ Клиент-серверный мессенджер под андроид [Discussion](https://github.com/Degtyarev02/MessengerProject)
 - 	🎵 Desktop приложение на JAVA с применением GUI SWING [Sound box](https://github.com/Degtyarev02/SoundBox)
 -   🍲 Курсовая работа по front-end разработке [Сервис по доставке еды](https://github.com/Degtyarev02/Frontend_coursework)
+-   🕊️ Проект в рамках обучения Spring framework [Приложение Spoken](https://github.com/Degtyarev02/Twitter-clone)
 
 ## Стек технологий
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
