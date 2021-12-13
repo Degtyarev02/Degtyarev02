@@ -19,8 +19,9 @@
 
 - 	✉️ Клиент-серверный мессенджер под андроид [Discussion](https://github.com/Degtyarev02/MessengerProject)
 - 	🎵 Desktop приложение на JAVA с применением GUI SWING [Sound box](https://github.com/Degtyarev02/SoundBox)
--   🍲 Курсовая работа по front-end разработке [Сервис по доставке еды](https://github.com/Degtyarev02/Frontend_coursework) <span style = "color:#03c03c;"> [Деплой на GH pages](https://degtyarev02.github.io/Frontend_coursework/html/index.html) </span>
--   🕊️ Проект в рамках обучения Spring framework [Приложение Spoken](https://github.com/Degtyarev02/Twitter-clone) [Ссылка на сайт](https://spoken-tc.herokuapp.com/)
+-   🍲 Курсовая работа по front-end разработке [Сервис по доставке еды](https://github.com/Degtyarev02/Frontend_coursework) || [Деплой на GH pages](https://degtyarev02.github.io/Frontend_coursework/html/index.html)
+-   🕊️ Проект в рамках обучения Spring framework [Приложение Spoken](https://github.com/Degtyarev02/Twitter-clone) || [Ссылка на сайт](https://spoken-tc.herokuapp.com/)
+-   🛵 Проект в рамках элитной подготовки - дизайн мобильного приложение [Let's ride](https://www.figma.com/file/hrGFuQCRBj9NnwBtbGqRcd/Lets-ride-design?node-id=0%3A1)
 
 ## Main stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
