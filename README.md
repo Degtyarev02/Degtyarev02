@@ -22,7 +22,7 @@
 -   🍲 Курсовая работа по front-end разработке [Сервис по доставке еды](https://github.com/Degtyarev02/Frontend_coursework) || [Деплой на GH pages](https://degtyarev02.github.io/FRONTEND_COURSEWORK/html/index.html)
 -   📣 Проект в рамках обучения Spring framework [Приложение Spoken](https://github.com/Degtyarev02/Twitter-clone) || [Ссылка на сайт](https://spoken-tc.herokuapp.com/)
 -   🛵 Проект в рамках элитной подготовки - дизайн мобильного приложение [Let's ride](https://www.figma.com/file/hrGFuQCRBj9NnwBtbGqRcd/Lets-ride-design?node-id=0%3A1)
--   🚘 Курсовая работа на тему "Сервис по аренде элитных автомобилей" с использованием Spring Framework [DiamondRent](https://github.com/Degtyarev02/CAR_RENT)
+-   🚘 Курсовая работа на тему "Сервис по аренде элитных автомобилей" с использованием Spring Framework [DiamondRent](https://github.com/Degtyarev02/CAR_RENT) || [Ссылка на сайт](diamondcar.herokuapp.com)
 
 ## Main stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
