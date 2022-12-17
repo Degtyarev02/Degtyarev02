@@ -1,5 +1,3 @@
-## Привет соучастники <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <p>
   <img align="center"  height = 165 src="https://github-readme-stats.vercel.app/api?username=Degtyarev02&show_icons=true&theme=github_dark&hide_border=true" />
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Degtyarev02&layout=compact&theme=github_dark&hide_border=true" />
@@ -7,13 +5,7 @@
 
 ## Обо мне
 
-В настоящее время студент 3 курса  РТУ "МИРЭА" по направлению "Программная инженерия". На 1 курсе изучал процедурное и объектно ориентированное программирование на языке C++, параллельно изучал Java. 
-
-Окончил курс Samsung IT Academy по направлению "Мобильная разработка android", где изучал Java и разработку под Андроид, а в качестве выпускного проекта разработал полноценный мессенджер с применением технологий Java и Firebase.
-
-Окончил курс элитной подготовки по направлени "основы дизайна мобильных и web приложений", в качестве итогового проекта разработал дизайн приложения для мотоциклистов "Let's ride" основываясь на принципах Material design
-
-В данный момент изучаю back-end разработку на фреймворке spring.
+В настоящее время студент 3 курса  РТУ "МИРЭА" по направлению "Программная инженерия".
 
 ## Проекты
 
